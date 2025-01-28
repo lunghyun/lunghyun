@@ -17,5 +17,5 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=lunghyun&show_icons=true&theme=ambient_gradient)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api?username=lunghyun&show_icons=true&theme=ambient_gradient) -->
 <br />
