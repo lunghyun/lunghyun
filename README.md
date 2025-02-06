@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/argo-E34F26?style=for-the-badge&logo=Argo&logoColor=white">
+  <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
+  <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 </div>
 <br />
 <br />
