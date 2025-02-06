@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunghyun&show_icons=true&theme=slateorange&hide=stars,contribs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunghyun&layout=compact&theme=slateorange)
+<a href="https://github.com/lunghyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=lunghyun&show_icons=true&theme=slateorange&hide=stars,contribs&count_private=true&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/lunghyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunghyun&layout=compact&theme=slateorange&hide_border=true" /></a> 
 
 ## 😊 Stack
 
