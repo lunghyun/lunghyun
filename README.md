@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunghyun&show_icons=true&theme=slateorange&hide=stars,contribs&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunghyun&layout=compact&theme=slateorange)
+
 ## 😊 Stack
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
