@@ -7,6 +7,9 @@
   </a>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrpn604)](https://solved.ac/mrpn604/)
+
+
 # Organizations
 
 | 주관 | 활동 내역 | 기간 |
@@ -49,7 +52,3 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 </p>
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mrpn604)](https://solved.ac/mrpn604/)
