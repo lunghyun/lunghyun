@@ -18,9 +18,10 @@
 
 # Project
 
-| 프로젝트명 | 역할 | 기간 |
+| 프로젝트명 | 역할 | 기간 | 인원 |
 | --- | --- | --- |
-| 판교 지역형 공동구매 플랫폼 <뭉치면 산다> [🔗](https://github.com/100-hours-a-week/14-YG-CLOUD)  | Infra (GCP & AWS & Terraform & Ansible) | 2025/03 ~ 2025/08 (5개월) 
+| 판교 지역형 공동구매 플랫폼 <뭉치면 산다> [🔗](https://github.com/100-hours-a-week/14-YG-CLOUD)  | Infra (GCP & AWS & Terraform & Ansible) | 2025/03 ~ 2025/08 (5개월) | 7인(ai 2, be 2, fe 1, cloud 2)
+| AI 기반 스토리 생성형 미로게임 <Amazing> [🔗](https://github.com/KTB-21-Amazing)  | Infra (AWS) | 2025/03 (3일) | 6인(ai 2, be 1, fe 1, cloud 2) |
 
 # License
 
