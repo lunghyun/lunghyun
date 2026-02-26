@@ -1,6 +1,6 @@
 # About Me
 
-안녕하세요. **Cloud**와 **Server**에 관심이 많은 **박성현**입니다.
+안녕하세요. **Cloud**와 **Server**를 공부하는 박성현입니다.
 <div>
   <a href="https://velog.io/@lunghyun" target="_blank">
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white" />
